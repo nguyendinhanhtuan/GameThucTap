@@ -1,0 +1,8 @@
+﻿  Slime.cpp
+D:\Game\MiniGameStarter\MiniGameStarter\TrainingFramework\src\GameObject\Slime.cpp(15,35): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Game\MiniGameStarter\MiniGameStarter\TrainingFramework\src\GameObject\Slime.cpp(15,29): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Game\MiniGameStarter\MiniGameStarter\TrainingFramework\src\GameObject\Slime.cpp(43,30): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Game\MiniGameStarter\MiniGameStarter\TrainingFramework\src\GameObject\Slime.cpp(48,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Game\MiniGameStarter\MiniGameStarter\TrainingFramework\src\GameObject\Slime.cpp(90,35): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Game\MiniGameStarter\MiniGameStarter\TrainingFramework\src\GameObject\Slime.cpp(90,29): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  TrainingFramework.vcxproj -> D:\Game\MiniGameStarter\MiniGameStarter\BIN-Nvidia\TrainingFramework.exe
